@@ -45,5 +45,5 @@ func calculateFutureValue(invenstmentAmount, years, expectetdReturnRate, inflati
 	frv = fv / math.Pow(1+inflationRate/100, years)
 	return fv, frv
 	// return
-
+*aJMI88jR 66UI
 }
